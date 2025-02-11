@@ -26,7 +26,7 @@ I'm **Lisema Jacob Ramosito**, an **Industrial Engineer** with a passion for **D
 - **Cloud & DevOps:** Azure Services, Docker, CI/CD Pipelines
 
 ### **Data Science & AI**
-- **Analytics & Forecasting:** Power BI, Python, SQL Server Reporting
+- **Analytics & Forecasting:** Python, SQL Server Reporting
 - **Optimization Algorithms:** Genetic Algorithms, OR, Ant Colony Optimization
 
 ### **Enterprise & Supply Chain Solutions**
