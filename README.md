@@ -1,17 +1,14 @@
 # 🚀 Welcome to My GitHub Portfolio
 
 ## 👋 About Me
-I'm **Lisema Jacob Ramosito**, an **Industrial Engineer** with a passion for **Digital Transformation, Supply Chain Optimization, and IT Solutions Development**. With extensive experience in **enterprise modeling, software development, and advanced analytics**, I specialize in creating AI-driven, scalable solutions for industrial and enterprise applications.
-
-Results-driven Industrial Engineer with extensive experience in **Supply Chain Planning, Software Implementation, Data Science, and IT Solutions Development**. Strong expertise in **enterprise modeling, Operations Research (OR), and cloud computing**. Certified in **TOGAF 9.1, COBIT 5, ITIL V3**, and proficient in **C#, Python, SQL, and .NET Core**. Passionate about **digital transformation, process optimization, and enterprise architecture**.
+I'm **Lisema Jacob Ramosito**, an **Industrial Engineer** with extensive experience in **Supply Chain Planning, Software Implementation, Data Science, and IT Solutions Development**. Strong expertise in **enterprise modeling, Operations Research (OR), and cloud computing**. Certified in **TOGAF 9.1, COBIT 5, ITIL V3**, and proficient in **C#, Python, SQL, and .NET Core**. Passionate about **digital transformation, process optimization, and enterprise architecture**.
 
 ---
 
 ## 📌 Professional Summary
 - 🎯 **Industrial Engineer** specializing in **Supply Chain Planning, Data Science, and IT Governance**.
-- 🧠 Expertise in **Machine Learning, Enterprise Architecture, and Cloud Computing**.
-- 💻 Strong programming background in **C#, .NET Core, Python, SQL, Azure, and Web APIs**.
-- 🔍 Experienced in **AI-driven predictive analytics and digital transformation initiatives**.
+- 🧠 Expertise in **Operations Research, Enterprise Architecture, and Cloud Computing**.
+- 💻 Strong programming background in **C#, .NET Core, Python, SQL, and Web APIs**.
 - 🎓 Certified in **TOGAF 9.1, COBIT 5, ITIL V3, and Advanced SIMIO Simulation**.
 
 ---
@@ -29,11 +26,11 @@ Results-driven Industrial Engineer with extensive experience in **Supply Chain P
 
 ### **Data Science & AI**
 - **Analytics & Forecasting:** Python, SQL Server Reporting
-- **Optimization Algorithms:** Genetic Algorithms, OR, Ant Colony Optimization
+- **Optimization Algorithms:** Linear Programming, Mixed Integer Programming, etc
 
 ### **Enterprise & Supply Chain Solutions**
 - **ERP & APS Systems:** JDA, Broner, SAP, Optimiza, Oracle SQL Developer
-- **Simulation Tools:** SIMIO, AnyLogic, Arena, MATLAB, Octave
+- **Simulation Tools:** SIMIO, Arena, MATLAB, Octave
 - **ETL & Data Warehousing:** MS SSIS, SQL Server
 
 ---
@@ -42,7 +39,7 @@ Results-driven Industrial Engineer with extensive experience in **Supply Chain P
 ### **Senior Engineer: Enterprise Models** @ ArcelorMittal South Africa *(2018 – Present)*
 🔹 Developed **AI-driven Supply Chain Planning Models** using JDA, PSI Metals, SQL, and Python.
 🔹 Led the **Hot-Dip Galvanizing Line Speed Prediction** project for production optimization.
-🔹 Designed **enterprise-wide digital transformation solutions** integrating AI and automation.
+🔹 Designed **enterprise-wide digital transformation solutions**.
 
 ### **Simulation Engineer** @ HATCH *(2017 – 2018)*
 🔹 Created **dynamic mining and logistics simulations** for major mining operations.
