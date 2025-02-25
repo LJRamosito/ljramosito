@@ -3,6 +3,8 @@
 ## 👋 About Me
 I'm **Lisema Jacob Ramosito**, an **Industrial Engineer** with a passion for **Digital Transformation, Supply Chain Optimization, and IT Solutions Development**. With extensive experience in **enterprise modeling, software development, and advanced analytics**, I specialize in creating AI-driven, scalable solutions for industrial and enterprise applications.
 
+Results-driven Industrial Engineer with extensive experience in **Supply Chain Planning, Software Implementation, Data Science, and IT Solutions Development**. Strong expertise in **enterprise modeling, Operations Research (OR), and cloud computing**. Certified in **TOGAF 9.1, COBIT 5, ITIL V3**, and proficient in **C#, Python, SQL, and .NET Core**. Passionate about **digital transformation, process optimization, and enterprise architecture**.
+
 ---
 
 ## 📌 Professional Summary
